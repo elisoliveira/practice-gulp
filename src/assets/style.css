@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#login {
+  background-image: linear-gradient(to right top, #5edeef, #8ad7ff, #c3ccff, #ecc3ec, #fcc1cf);
+  width: 70em;
+  height: 50em;
+  padding: 30rem;
+}
